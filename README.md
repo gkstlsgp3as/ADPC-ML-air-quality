@@ -3,3 +3,6 @@ These are the brief explanation about each file.
 - s5p_pre_processor.R: make stacks of raster files and extract values for calculating correlation.
 - interpolation_method.R: interpolate PM2.5 data with IDW, OK, RF, and RK method, and validate the performance.
 - Notepad_Sienna.pdf: cover all the work that was done during the internship.
+
+
+For details see https://www.mdpi.com/2073-4433/13/2/161
