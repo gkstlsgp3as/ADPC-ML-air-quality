@@ -6,7 +6,7 @@ Atmospheric pollution has recently drawn significant attention due to its proven
 
 ![adpc_mdpi](https://github.com/gkstlsgp3as/ADPC-ML-air-quality/assets/58411517/63465d92-4cb7-4784-907d-dfad4b9c4771)
 
-==========
+
 ## Codes
 
 These are the brief explanation about each file.
